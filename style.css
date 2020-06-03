@@ -1,0 +1,26 @@
+p {
+    border: 1px solid; black;
+    width: 260px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+    padding: 20px;
+}
+
+.first {
+    border-top: none;
+}
+
+.last {
+    border-bottom: none;
+}
+
+p:hover {
+    cursor: default;
+    background-color: #e76940;
+}
+
+p{
+      
+    margin: 0px;
+}
